@@ -8,12 +8,12 @@
 <h5 align="left">
  👩‍💻 Updated widget’s data source to take input from the react-native app
 
-### Running Instructions for Xcode
+# Running Instructions for Xcode
 <p float="left">
-### Clone repository
-### Run CleoWidget.xcworkspace (found in the ios folder) using Xcode
-### Either Build on the Simulator or Preview on StandardWidget.swift
+# Clone repository
+# Run CleoWidget.xcworkspace (found in the ios folder) using Xcode
+# Either Build on the Simulator or Preview on StandardWidget.swift
 
-### Languages
+# Languages
 <p float="left">
 <img alt="Swift" src="https://img.shields.io/badge/-Swift-orange?style=for-the-badge&logo=swift&logoColor=orange" />
