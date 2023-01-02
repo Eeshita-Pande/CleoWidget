@@ -10,9 +10,9 @@
 
 ### Running Instructions for Xcode
 <p float="left">
-#### Clone repository
-#### Run CleoWidget.xcworkspace (found in the ios folder) using Xcode
-#### Either Build on the Simulator or Preview on StandardWidget.swift
+### Clone repository
+### Run CleoWidget.xcworkspace (found in the ios folder) using Xcode
+### Either Build on the Simulator or Preview on StandardWidget.swift
 
 ### Languages
 <p float="left">
