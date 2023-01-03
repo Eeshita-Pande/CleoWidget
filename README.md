@@ -23,6 +23,11 @@ A Swift widget, taking input from a react-native app
  ⚒ Either Build on the Simulator or Preview on StandardWidget.swift
 </p>
 
+
+## Demo
+![Demo](https://media.giphy.com/media/t5dl7A8CIxvRN3ZVvc/giphy.gif)
+
+
 ## Languages
 <p float="left">
 <img alt="Swift" src="https://img.shields.io/badge/-Swift-lightgrey?style=for-the-badge&logo=swift&logoColor=orange"/>
