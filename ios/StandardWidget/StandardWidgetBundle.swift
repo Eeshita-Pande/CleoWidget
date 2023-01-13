@@ -13,6 +13,8 @@ import Intents
 struct StandardWidgetBundle: WidgetBundle {
     var body: some Widget {
         StandardWidget()
+        FigmaWidget()
+        SpendUnderWidget()
         StandardWidgetLiveActivity()
     }
 }

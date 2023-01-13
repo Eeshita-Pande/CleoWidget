@@ -9,7 +9,7 @@ import { render } from 'react-native/Libraries/Renderer/implementations/ReactNat
  const image = {uri: "https://i.ibb.co/7VyRPzB/React-Landing.png"};
  const App = () => {
 
-const [text] = useState('Available tomorrow');
+const [text] = useState(100);
 const widgetData = {
      text,
  };

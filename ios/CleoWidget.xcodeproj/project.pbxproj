@@ -21,6 +21,17 @@
 		3E7AC448295DACB400177822 /* StandardWidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 3E7AC444295DACB200177822 /* StandardWidget.intentdefinition */; };
 		3E7AC449295DACB400177822 /* StandardWidget.intentdefinition in Sources */ = {isa = PBXBuildFile; fileRef = 3E7AC444295DACB200177822 /* StandardWidget.intentdefinition */; };
 		3E7AC44C295DACB400177822 /* StandardWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 3E7AC438295DACB200177822 /* StandardWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		3EAECEE3296ACC61002A12A9 /* FigmaWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EAECEE2296ACC61002A12A9 /* FigmaWidget.swift */; };
+		3EBD08F3296F52B40012F1AA /* SpendUnderWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBD08F2296F52B40012F1AA /* SpendUnderWidget.swift */; };
+		3EBD08F5296F5E770012F1AA /* Archivo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3EBD08F4296F5E770012F1AA /* Archivo-Regular.ttf */; };
+		3EBD08F6296F5E770012F1AA /* Archivo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3EBD08F4296F5E770012F1AA /* Archivo-Regular.ttf */; };
+		3EBD08F7296F5E770012F1AA /* Archivo-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3EBD08F4296F5E770012F1AA /* Archivo-Regular.ttf */; };
+		3EBD08FD296F61280012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3EBD08FC296F61270012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf */; };
+		3EBD08FE296F61280012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3EBD08FC296F61270012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf */; };
+		3EBD08FF296F61280012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3EBD08FC296F61270012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf */; };
+		3EBD0901296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3EBD0900296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf */; };
+		3EBD0902296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3EBD0900296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf */; };
+		3EBD0903296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3EBD0900296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-CleoWidget-CleoWidgetTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-CleoWidget-CleoWidgetTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -79,6 +90,11 @@
 		3E7AC447295DACB400177822 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3E7AC451295DADC600177822 /* StandardWidgetExtension.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = StandardWidgetExtension.entitlements; sourceTree = "<group>"; };
 		3E7AC452295DB5A500177822 /* CleoWidget.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = CleoWidget.entitlements; path = CleoWidget/CleoWidget.entitlements; sourceTree = "<group>"; };
+		3EAECEE2296ACC61002A12A9 /* FigmaWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FigmaWidget.swift; sourceTree = "<group>"; };
+		3EBD08F2296F52B40012F1AA /* SpendUnderWidget.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpendUnderWidget.swift; sourceTree = "<group>"; };
+		3EBD08F4296F5E770012F1AA /* Archivo-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Archivo-Regular.ttf"; sourceTree = "<group>"; };
+		3EBD08FC296F61270012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GT-Flexa-X-Compressed-Bold-Trial.otf"; sourceTree = "<group>"; };
+		3EBD0900296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GT-Flexa-Trial-VF.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-CleoWidget.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CleoWidget.release.xcconfig"; path = "Target Support Files/Pods-CleoWidget/Pods-CleoWidget.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-CleoWidget-CleoWidgetTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CleoWidget-CleoWidgetTests.debug.xcconfig"; path = "Target Support Files/Pods-CleoWidget-CleoWidgetTests/Pods-CleoWidget-CleoWidgetTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-CleoWidget.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CleoWidget.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -165,6 +181,8 @@
 				3E7AC43E295DACB200177822 /* StandardWidgetBundle.swift */,
 				3E7AC440295DACB200177822 /* StandardWidgetLiveActivity.swift */,
 				3E7AC442295DACB200177822 /* StandardWidget.swift */,
+				3EAECEE2296ACC61002A12A9 /* FigmaWidget.swift */,
+				3EBD08F2296F52B40012F1AA /* SpendUnderWidget.swift */,
 				3E7AC444295DACB200177822 /* StandardWidget.intentdefinition */,
 				3E7AC445295DACB400177822 /* Assets.xcassets */,
 				3E7AC447295DACB400177822 /* Info.plist */,
@@ -182,6 +200,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				3EBD0900296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf */,
+				3EBD08FC296F61270012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf */,
+				3EBD08F4296F5E770012F1AA /* Archivo-Regular.ttf */,
 				3E7AC451295DADC600177822 /* StandardWidgetExtension.entitlements */,
 				13B07FAE1A68108700A75B9A /* CleoWidget */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
@@ -328,6 +349,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EBD0902296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf in Resources */,
+				3EBD08FE296F61280012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf in Resources */,
+				3EBD08F6296F5E770012F1AA /* Archivo-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -335,8 +359,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EBD08FD296F61280012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				3EBD08F5296F5E770012F1AA /* Archivo-Regular.ttf in Resources */,
+				3EBD0901296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,7 +371,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EBD08F7296F5E770012F1AA /* Archivo-Regular.ttf in Resources */,
+				3EBD08FF296F61280012F1AA /* GT-Flexa-X-Compressed-Bold-Trial.otf in Resources */,
 				3E7AC446295DACB400177822 /* Assets.xcassets in Resources */,
+				3EBD0903296F636B0012F1AA /* GT-Flexa-Trial-VF.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -525,6 +555,8 @@
 			files = (
 				3E7AC443295DACB200177822 /* StandardWidget.swift in Sources */,
 				3E7AC448295DACB400177822 /* StandardWidget.intentdefinition in Sources */,
+				3EAECEE3296ACC61002A12A9 /* FigmaWidget.swift in Sources */,
+				3EBD08F3296F52B40012F1AA /* SpendUnderWidget.swift in Sources */,
 				3E7AC441295DACB200177822 /* StandardWidgetLiveActivity.swift in Sources */,
 				3E7AC43F295DACB200177822 /* StandardWidgetBundle.swift in Sources */,
 			);
