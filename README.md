@@ -4,7 +4,7 @@
 A Swift widget, taking input from a react-native app
 
 <h5 align="left">
- 💨 Static SwiftUI Widget displaying hard-coded data and a pre-set image refreshing every 5 minutes
+ 💨 SwiftUI Widget displaying data and conditional widget view based on the data  
 <h5 align="left">
  🌉 react-native bridge: React-native bridge from a static one-page react-native app to the SwiftUI widget
 <h5 align="left">
@@ -20,7 +20,7 @@ A Swift widget, taking input from a react-native app
  🏃‍♀️ Run CleoWidget.xcworkspace (found in the ios folder) using Xcode
 <h5 align="left">
 </p>
- ⚒ Either Build on the Simulator or Preview on StandardWidget.swift
+ ⚒ Build SpendUnderWidget on the Simulator 
 </p>
 
 
